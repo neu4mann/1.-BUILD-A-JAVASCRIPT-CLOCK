@@ -1,0 +1,23 @@
+{
+  "name": "1.-build-a-javascript-clock",
+  "version": "1.0.0",
+  "description": "1. BUILD A JAVASCRIPT CLOCK Skillcrush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu4mann/1.-BUILD-A-JAVASCRIPT-CLOCK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu4mann/1.-BUILD-A-JAVASCRIPT-CLOCK/issues"
+  },
+  "homepage": "https://github.com/neu4mann/1.-BUILD-A-JAVASCRIPT-CLOCK#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "readline-sync": "^1.4.10"
+  }
+}
